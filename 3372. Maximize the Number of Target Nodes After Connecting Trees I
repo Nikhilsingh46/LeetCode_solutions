@@ -1,0 +1,75 @@
+class Solution {
+    // Helper class to represent a pair of integers
+    static class Pair {
+        int node, parent;
+        Pair(int node, int parent) {
+            this.node = node;
+            this.parent = parent;
+        }
+    }
+
+    // BFS function to count the number of nodes reachable within 'k' steps
+    private int bfs(int start, List<List<Integer>> adj, int k) {
+        Queue<Pair> queue = new LinkedList<>();
+        queue.offer(new Pair(start, -1));
+        int count = 0;
+
+        while (!queue.isEmpty() && k >= 0) {
+            int size = queue.size();
+            count += size;
+            for (int i = 0; i < size; i++) {
+                Pair current = queue.poll();
+                int u = current.node;
+                int parent = current.parent;
+                for (int v : adj.get(u)) {
+                    if (v != parent) {
+                        queue.offer(new Pair(v, u));
+                    }
+                }
+            }
+            k--;
+        }
+        return count;
+    }
+
+    public int[] maxTargetNodes(int[][] edges1, int[][] edges2, int k) {
+        int n1 = edges1.length + 1;
+        int n2 = edges2.length + 1;
+
+        // Build adjacency list for the first tree
+        List<List<Integer>> adj1 = new ArrayList<>();
+        for (int i = 0; i < n1; i++) {
+            adj1.add(new ArrayList<>());
+        }
+        for (int[] edge : edges1) {
+            adj1.get(edge[0]).add(edge[1]);
+            adj1.get(edge[1]).add(edge[0]);
+        }
+
+        // Build adjacency list for the second tree
+        List<List<Integer>> adj2 = new ArrayList<>();
+        for (int i = 0; i < n2; i++) {
+            adj2.add(new ArrayList<>());
+        }
+        for (int[] edge : edges2) {
+            adj2.get(edge[0]).add(edge[1]);
+            adj2.get(edge[1]).add(edge[0]);
+        }
+
+        // Precompute the maximum number of nodes reachable within k-1 steps in the second tree
+        int maxReachableInTree2 = 0;
+        for (int i = 0; i < n2; i++) {
+            int reachable = bfs(i, adj2, k - 1);
+            maxReachableInTree2 = Math.max(maxReachableInTree2, reachable);
+        }
+
+        // For each node in the first tree, compute the total reachable nodes
+        int[] result = new int[n1];
+        for (int i = 0; i < n1; i++) {
+            int reachableInTree1 = bfs(i, adj1, k);
+            result[i] = reachableInTree1 + maxReachableInTree2;
+        }
+
+        return result;
+    }
+}
