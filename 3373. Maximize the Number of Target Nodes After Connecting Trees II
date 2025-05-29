@@ -1,0 +1,59 @@
+class Solution {
+    public int[] maxTargetNodes(int[][] edges1, int[][] edges2) {
+        int n = edges1.length + 1;
+        int m = edges2.length + 1;
+
+        // Build adjacency lists for both trees
+        List<Integer>[] tree1 = buildGraph(edges1, n);
+        List<Integer>[] tree2 = buildGraph(edges2, m);
+
+        // Arrays to store depth parity for each node
+        int[] parity1 = new int[n];
+        int[] parity2 = new int[m];
+
+        // Counters for even and odd depth nodes
+        int[] count1 = new int[2];
+        int[] count2 = new int[2];
+
+        // Perform DFS to determine parity and count nodes
+        dfs(tree1, 0, -1, 0, parity1, count1);
+        dfs(tree2, 0, -1, 0, parity2, count2);
+
+        // Determine the maximum count in Tree 2
+        int maxCountTree2 = Math.max(count2[0], count2[1]);
+
+        // Calculate the answer for each node in Tree 1
+        int[] answer = new int[n];
+        for (int i = 0; i < n; i++) {
+            answer[i] = count1[parity1[i]] + maxCountTree2;
+        }
+
+        return answer;
+    }
+
+    // Helper method to build the adjacency list
+    private List<Integer>[] buildGraph(int[][] edges, int size) {
+        List<Integer>[] graph = new ArrayList[size];
+        for (int i = 0; i < size; i++) {
+            graph[i] = new ArrayList<>();
+        }
+        for (int[] edge : edges) {
+            int u = edge[0], v = edge[1];
+            graph[u].add(v);
+            graph[v].add(u);
+        }
+        return graph;
+    }
+
+    // DFS to determine depth parity and count nodes
+    private void dfs(List<Integer>[] graph, int node, int parent, int depth,
+                     int[] parity, int[] count) {
+        parity[node] = depth % 2;
+        count[parity[node]]++;
+        for (int neighbor : graph[node]) {
+            if (neighbor != parent) {
+                dfs(graph, neighbor, node, depth + 1, parity, count);
+            }
+        }
+    }
+}
