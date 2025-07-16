@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0001-two-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
