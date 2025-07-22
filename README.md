@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0001-two-sum) |
+| [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0001-two-sum) |
+| [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Dynamic Programming
 |  |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
