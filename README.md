@@ -35,6 +35,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3396-valid-word) |
 ## Heap (Priority Queue)
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
