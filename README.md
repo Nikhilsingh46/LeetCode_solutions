@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0001-two-sum) |
 | [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -85,6 +86,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
 |  |
@@ -101,9 +103,14 @@
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
