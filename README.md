@@ -16,6 +16,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2689-rearranging-fruits](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0001-two-sum) |
 | [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2689-rearranging-fruits](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
@@ -49,11 +51,13 @@
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
 ## Linked List
 |  |
 | ------- |
