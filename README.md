@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0136-single-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -97,6 +98,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0136-single-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
