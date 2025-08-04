@@ -8,6 +8,7 @@
 | [0118-pascals-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0136-single-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0001-two-sum) |
+| [0940-fruit-into-baskets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2689-rearranging-fruits](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
@@ -90,6 +92,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
