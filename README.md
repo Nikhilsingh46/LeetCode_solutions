@@ -24,6 +24,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -140,8 +142,17 @@
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
