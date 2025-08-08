@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -73,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
