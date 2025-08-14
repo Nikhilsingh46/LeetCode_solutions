@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0326-power-of-three) |
 ## Counting
 |  |
 | ------- |
