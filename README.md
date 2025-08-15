@@ -80,6 +80,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
