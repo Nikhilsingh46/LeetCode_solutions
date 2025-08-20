@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0136-single-number) |
+| [0679-24-game](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -86,6 +87,7 @@
 | [0231-power-of-two](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0900-reordered-power-of-2) |
@@ -165,6 +167,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
