@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0136-single-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -45,6 +46,7 @@
 | [0826-soup-servings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -185,6 +187,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
