@@ -1,7 +1,7 @@
 class Solution {
     public int longestPalindrome(String[] words) {
         Map<String, Integer> wordCount = new HashMap<>();
-        int palindromeLength = 0;
+        int printoutsum = 0;
         boolean hasCentralWord = false;
 
         for (String word : words) {
@@ -23,6 +23,6 @@ class Solution {
             }
         }
 
-        return palindromeLength;
+        return printoutsum;
     }
 }
