@@ -5,45 +5,45 @@ class Solution {
     int[][] columns = new int[N][N + 1];
     int[][] boxes = new int[N][N + 1];
     char[][] board;
-    boolean sudokuSolved = false;
+    boolean sudokuSolve= false;
 
-    public boolean couldPlace(int d, int row, int col) {
-        int idx = (row / n) * n + col / n;
-        return rows[row][d] + columns[col][d] + boxes[idx][d] == 0;
+    public boolean couldPlace(int d, int r, int col) {
+        int idx = (r / n) * n + col / n;
+        return rows[r][d] + columns[col][d] + boxes[idx][d] == 0;
     }
 
-    public void placeNumber(int d, int row, int col) {
-        int idx = (row / n) * n + col / n;
-        rows[row][d]++;
+    public void placeNumber(int d, int r, int col) {
+        int idx = (r / n) * n + col / n;
+        rows[r][d]++;
         columns[col][d]++;
         boxes[idx][d]++;
-        board[row][col] = (char)(d + '0');
+        board[r][col] = (char)(d + '0');
     }
 
-    public void removeNumber(int d, int row, int col) {
-        int idx = (row / n) * n + col / n;
-        rows[row][d]--;
+    public void removeNumber(int d, int r, int col) {
+        int idx = (r / n) * n + col / n;
+        rows[r][d]--;
         columns[col][d]--;
         boxes[idx][d]--;
-        board[row][col] = '.';
+        board[r][col] = '.';
     }
 
-    public void placeNextNumbers(int row, int col) {
-        if (row == N - 1 && col == N - 1) sudokuSolved = true;
-        else if (col == N - 1) backtrack(row + 1, 0);
-        else backtrack(row, col + 1);
+    public void placeNextNumbers(int r, int col) {
+        if (r == N - 1 && col == N - 1) sudokuSolved = true;
+        else if (col == N - 1) backtrack(r + 1, 0);
+        else backtrack(r, col + 1);
     }
 
-    public void backtrack(int row, int col) {
-        if (board[row][col] == '.') {
+    public void backtrack(int r, int col) {
+        if (board[r][col] == '.') {
             for (int d = 1; d <= 9; d++) {
-                if (couldPlace(d, row, col)) {
-                    placeNumber(d, row, col);
-                    placeNextNumbers(row, col);
-                    if (!sudokuSolved) removeNumber(d, row, col);
+                if (couldPlace(d, r, col)) {
+                    placeNumber(d, r, col);
+                    placeNextNumbers(r, col);
+                    if (!sudokuSolved) removeNumber(d, r, col);
                 }
             }
-        } else placeNextNumbers(row, col);
+        } else placeNextNumbers(r, col);
     }
 
     public void solveSudoku(char[][] board) {
