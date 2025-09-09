@@ -69,6 +69,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -265,4 +267,8 @@
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
