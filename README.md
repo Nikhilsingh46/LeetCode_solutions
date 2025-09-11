@@ -102,6 +102,7 @@
 | [0900-reordered-power-of-2](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0900-reordered-power-of-2) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
@@ -134,6 +135,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3396-valid-word) |
 ## Heap (Priority Queue)
 |  |
