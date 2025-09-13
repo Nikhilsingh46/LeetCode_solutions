@@ -59,6 +59,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2689-rearranging-fruits](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0900-reordered-power-of-2) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Monotonic Stack
 |  |
 | ------- |
