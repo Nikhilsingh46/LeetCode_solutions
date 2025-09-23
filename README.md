@@ -99,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0165-compare-version-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -146,6 +147,7 @@
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
