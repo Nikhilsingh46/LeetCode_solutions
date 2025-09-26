@@ -11,6 +11,7 @@
 | [0120-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0136-single-number) |
 | [0498-diagonal-traverse](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
@@ -103,10 +104,12 @@
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0611-valid-triangle-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -117,6 +120,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0900-reordered-power-of-2) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
@@ -246,6 +250,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0611-valid-triangle-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
