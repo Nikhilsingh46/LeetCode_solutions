@@ -17,6 +17,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -144,6 +147,7 @@
 | [0830-largest-triangle-area](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
