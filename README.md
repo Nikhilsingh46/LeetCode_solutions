@@ -32,6 +32,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -154,6 +155,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1448-maximum-69-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -340,4 +343,8 @@
 | [2429-design-a-food-rating-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3827-implement-router) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
