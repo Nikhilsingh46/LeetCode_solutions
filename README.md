@@ -159,6 +159,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3830-find-closest-person) |
@@ -278,6 +279,7 @@
 | [0498-diagonal-traverse](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0498-diagonal-traverse) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
