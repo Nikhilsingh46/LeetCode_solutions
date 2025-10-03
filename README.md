@@ -10,6 +10,7 @@
 | [0118-pascals-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0136-single-number) |
+| [0407-trapping-rain-water-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0679-24-game) |
@@ -183,6 +184,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -294,6 +296,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -349,4 +352,8 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
