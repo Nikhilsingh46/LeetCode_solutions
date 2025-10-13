@@ -23,6 +23,7 @@
 | [1006-vowel-spellchecker](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -79,6 +80,7 @@
 | [0940-fruit-into-baskets](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -148,6 +150,7 @@
 | [0611-valid-triangle-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
@@ -193,6 +196,7 @@
 | [1006-vowel-spellchecker](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
