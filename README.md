@@ -59,6 +59,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -145,6 +146,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2689-rearranging-fruits) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -159,6 +161,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
