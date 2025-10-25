@@ -194,6 +194,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1448-maximum-69-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikhilsingh46/LeetCode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
